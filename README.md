@@ -35,4 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ##Aviso
  O banco de dados do supabase foi deletado. Para adicionar seu próprio banco de dados do supabase,
-substitua a chave anônima e a url que estão em src/pages/chat.jsx
+substitua a chave anônima e a url que estão em pages/chat.jsx
